@@ -18,8 +18,8 @@
 <br>
 <br><br><br><br><br><br><br>
 <h3>Mis estadisticas de github</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Silves26&show_icons=true&theme=dark&locale=en" alt="Silves26" /></p>
 <br><br><br><br><br><br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Silves26&theme=dark" alt="anii693" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Silves26&theme=dark" alt="Silves26" /></p>
 <br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Silves26&show_icons=true&theme=dark&locale=en&layout=compact" alt="Silves26" /></p>
